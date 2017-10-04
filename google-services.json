@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "874869018198",
+    "firebase_url": "https://carnotes-c534b.firebaseio.com",
+    "project_id": "carnotes-c534b",
+    "storage_bucket": "carnotes-c534b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874869018198:android:ac8836e40e12d7e2",
+        "android_client_info": {
+          "package_name": "duran.by.carnotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "874869018198-ntqvlcsokb5oku7sag8pjj6ms2buboum.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "duran.by.carnotes",
+            "certificate_hash": "3a555458bc51cb55e3e2921da65214cb21975222"
+          }
+        },
+        {
+          "client_id": "874869018198-s18jr32p01365mpv63de9bso39o9jdl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5RErpLSu1j-uPXCWxlFex8izRx4m8nFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "874869018198-s18jr32p01365mpv63de9bso39o9jdl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
